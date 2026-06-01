@@ -4,6 +4,13 @@ A terminal UI for Jira. Navigate your board, view ticket details, and manage iss
 
 ![Go](https://img.shields.io/badge/Go-1.21+-blue)
 
+<img width="1501" height="636" alt="Screenshot 2026-06-01 at 21 19 26" src="https://github.com/user-attachments/assets/7f6a278d-e5f1-4898-bac2-e0b0e6cf2958" />
+
+<img width="1501" height="847" alt="Screenshot 2026-06-01 at 21 19 16" src="https://github.com/user-attachments/assets/e3a6bf55-5e91-4bfc-845a-38531a3f165d" />
+
+
+
+
 ---
 
 ## Features
