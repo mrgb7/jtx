@@ -46,7 +46,7 @@ Default location: `$HOME/.config/jtx/config.toml` (or `config.yaml` / `config.ym
 Override with: `jtx -config-dir /path/to/dir`
 
 ```toml
-project = "OBS"   # Jira project key
+project = "SRE"   # Jira project key
 jql     = ""      # Optional: custom JQL (overrides project default)
 
 [[columns]]
@@ -69,10 +69,6 @@ title    = "Done"
 color    = "done"
 statuses = ["done", "closed", "resolved", "released", "completed"]
 
-[[columns]]
-title    = "Blocked"
-color    = "blocked"
-statuses = ["blocked", "on hold", "impediment"]
 ```
 
 `statuses` values are matched case-insensitively against each issue's status name.
